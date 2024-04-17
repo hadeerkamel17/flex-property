@@ -1,0 +1,15 @@
+section {
+    display: flex;
+    background-color: blueviolet;
+    height: 300px;
+}
+/* flex is shorthand property for 
+flex-grow default value 0
+flex-shrink default value 1
+flex-basis  default value auto */
+div {
+    background-color: blanchedalmond;
+    width: 50px;
+    padding: 10px;
+    border: 1px solid black;
+}
